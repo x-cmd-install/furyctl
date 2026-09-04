@@ -7,7 +7,7 @@ about:
   head: 5d947c7
   archived: false
   latestVersion: v0.35.1
-  collectedAt: 2026-09-04T19:36:34Z
+  collectedAt: 2026-09-04T20:59:45Z
 timeline:
   created: 2018-11-19
   lastCommit: 2026-08-21
@@ -35,7 +35,7 @@ recent:
     openPR: 4
     closedIssue: 1
     openIssue: 2
-    commit: 0
+    commit: 14
   last60d:
     since: 2026-07-06
     release: 7
@@ -43,7 +43,7 @@ recent:
     openPR: 5
     closedIssue: 3
     openIssue: 6
-    commit: 0
+    commit: 95
   last90d:
     since: 2026-06-06
     release: 10
@@ -51,7 +51,7 @@ recent:
     openPR: 5
     closedIssue: 4
     openIssue: 6
-    commit: 0
+    commit: 102
   last180d:
     since: 2026-03-08
     release: 15
@@ -59,7 +59,7 @@ recent:
     openPR: 5
     closedIssue: 7
     openIssue: 6
-    commit: 0
+    commit: 139
   last360d:
     since: 2025-09-09
     release: 33
@@ -67,7 +67,7 @@ recent:
     openPR: 6
     closedIssue: 9
     openIssue: 7
-    commit: 0
+    commit: 239
   last720d:
     since: 2024-09-14
     release: 64
@@ -84,6 +84,64 @@ total:
   openIssue: 17
   commit: 1725
 ---
+path: /home/runner/.x-repo/github.com/sighupio/furyctl
+collectedAt: 2026-09-04T20:59:48Z
+loc:
+  Go:
+    code: 46184
+    comments: 3158
+    blanks: 10800
+    files: 382
+  Json:
+    code: 25785
+    comments: 0
+    blanks: 47
+    files: 19
+  Pan:
+    code: 24612
+    comments: 3480
+    blanks: 4745
+    files: 673
+  Yaml:
+    code: 8934
+    comments: 2063
+    blanks: 223
+    files: 128
+  Hcl:
+    code: 6346
+    comments: 888
+    blanks: 1108
+    files: 98
+  Svg:
+    code: 346
+    comments: 0
+    blanks: 22
+    files: 1
+  Sh:
+    code: 259
+    comments: 64
+    blanks: 70
+    files: 45
+  Toml:
+    code: 219
+    comments: 0
+    blanks: 32
+    files: 1
+  ForgeConfig:
+    code: 49
+    comments: 31
+    blanks: 12
+    files: 7
+  Markdown:
+    code: 0
+    comments: 2141
+    blanks: 1337
+    files: 34
+total:
+  code: 113510
+  comments: 11967
+  blanks: 18463
+  files: 1388
 ---
 date: "2026-08-24"
 repo:
