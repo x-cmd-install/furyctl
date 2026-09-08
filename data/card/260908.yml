@@ -5,7 +5,7 @@ about:
   head: 5d947c7
   archived: false
   latestVersion: "v0.35.1"
-  collectedAt: 2026-09-08T02:51:10Z
+  collectedAt: 2026-09-08T05:35:39Z
 timeline:
   created: 2018-11-19
   lastCommit: 2026-08-21
@@ -83,7 +83,7 @@ total:
   commit: 1725
 ---
 path: /home/runner/.x-repo/github.com/sighupio/furyctl
-collectedAt: 2026-09-08T02:51:14Z
+collectedAt: 2026-09-08T05:35:43Z
 loc:
   Go:
     code: 46184
@@ -244,9 +244,9 @@ checks:
       - 'Warn: 0 commits out of 29 are checked with a SAST tool'
 ---
 platform	name	url	size	score
-darwin/arm64	furyctl-darwin-arm64.tar.gz	https://github.com/sighupio/furyctl/releases/download/v0.35.1/furyctl-darwin-arm64.tar.gz	0	43
-darwin/amd64	furyctl-darwin-amd64.tar.gz	https://github.com/sighupio/furyctl/releases/download/v0.35.1/furyctl-darwin-amd64.tar.gz	0	43
-linux/arm64	furyctl-linux-arm64.tar.gz	https://github.com/sighupio/furyctl/releases/download/v0.35.1/furyctl-linux-arm64.tar.gz	0	43
-linux/amd64	furyctl-linux-amd64.tar.gz	https://github.com/sighupio/furyctl/releases/download/v0.35.1/furyctl-linux-amd64.tar.gz	0	43
+darwin/arm64	furyctl-darwin-arm64.tar.gz	https://github.com/sighupio/furyctl/releases/download/v0.35.1/furyctl-darwin-arm64.tar.gz	20584455	45
+darwin/amd64	furyctl-darwin-amd64.tar.gz	https://github.com/sighupio/furyctl/releases/download/v0.35.1/furyctl-darwin-amd64.tar.gz	22351517	45
+linux/arm64	furyctl-linux-arm64.tar.gz	https://github.com/sighupio/furyctl/releases/download/v0.35.1/furyctl-linux-arm64.tar.gz	19572374	45
+linux/amd64	furyctl-linux-amd64.tar.gz	https://github.com/sighupio/furyctl/releases/download/v0.35.1/furyctl-linux-amd64.tar.gz	21873003	45
 win/arm64			
 win/amd64			
