@@ -2,15 +2,15 @@ about:
   description: "furyctl is the SIGHUP Distribution cluster lifecycle manager"
   license: Apache-2.0
   homepage: https://docs.sighup.io/furyctl/
-  head: ad528a1
+  head: a17d8bb
   archived: false
   latestVersion: "v0.35.1"
   latestRelease: "v0.35.1"
   latestPrerelease: "v0.35.1-rc.3"
-  collectedAt: 2026-09-09T05:50:46Z
+  collectedAt: 2026-09-09T19:53:59Z
 timeline:
   created: 2018-11-19
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-08-03
   lastRelease: 2026-08-03
   lastPrerelease: 2026-08-03
@@ -33,61 +33,61 @@ recent:
   last30d:
     since: 2026-08-10
     release: 0
-    mergedPR: 6
-    openPR: 4
+    mergedPR: 7
+    openPR: 3
     closedIssue: 1
     openIssue: 0
-    commit: 12
+    commit: 13
   last60d:
     since: 2026-07-11
     release: 5
-    mergedPR: 44
-    openPR: 4
+    mergedPR: 45
+    openPR: 3
     closedIssue: 5
     openIssue: 4
-    commit: 82
+    commit: 83
   last90d:
     since: 2026-06-11
     release: 10
-    mergedPR: 70
-    openPR: 4
+    mergedPR: 71
+    openPR: 3
     closedIssue: 6
     openIssue: 4
-    commit: 105
+    commit: 106
   last180d:
     since: 2026-03-13
     release: 15
-    mergedPR: 82
-    openPR: 4
+    mergedPR: 83
+    openPR: 3
     closedIssue: 9
     openIssue: 4
-    commit: 143
+    commit: 144
   last360d:
     since: 2025-09-14
     release: 33
-    mergedPR: 97
-    openPR: 5
+    mergedPR: 98
+    openPR: 4
     closedIssue: 11
     openIssue: 5
-    commit: 243
+    commit: 244
   last720d:
     since: 2024-09-19
     release: 63
-    mergedPR: 163
-    openPR: 6
+    mergedPR: 164
+    openPR: 5
     closedIssue: 23
     openIssue: 8
-    commit: 485
+    commit: 487
 total:
   release: 174
-  mergedPR: 450
-  openPR: 6
+  mergedPR: 451
+  openPR: 5
   closedIssue: 223
   openIssue: 15
-  commit: 1730
+  commit: 1732
 ---
 path: /home/runner/.x-repo/github.com/sighupio/furyctl
-collectedAt: 2026-09-09T05:50:54Z
+collectedAt: 2026-09-09T19:54:04Z
 loc:
   Go:
     code: 46332
