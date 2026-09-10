@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.35.1"
   latestRelease: "v0.35.1"
   latestPrerelease: "v0.35.1-rc.3"
-  collectedAt: 2026-09-10T17:40:42Z
+  collectedAt: 2026-09-10T23:47:51Z
 timeline:
   created: 2018-11-19
   lastCommit: 2026-09-10
@@ -87,7 +87,7 @@ total:
   commit: 1743
 ---
 path: /home/runner/.x-repo/github.com/sighupio/furyctl
-collectedAt: 2026-09-10T17:40:48Z
+collectedAt: 2026-09-10T23:47:55Z
 loc:
   Go:
     code: 47453
