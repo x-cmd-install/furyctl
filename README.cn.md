@@ -4,7 +4,7 @@
 
 furyctl is the SIGHUP Distribution cluster lifecycle manager
 
-![furyctl](https://repo.x-cmd.io/furyctl.svg)
+![furyctl](https://repo.x-cmd.io/furyctl.svg?lang=zh)
 
 ## 安装
 
@@ -12,42 +12,13 @@ furyctl is the SIGHUP Distribution cluster lifecycle manager
 x install furyctl
 ```
 
-## 源代码
+## 代码洞察
 
-- **上游仓库**: <https://github.com/sighupio/furyctl>
-- **官网**: <https://docs.sighup.io/furyctl/>
-- **许可证**: Apache-2.0
-
-## 发布
-
-- **最新版本**: `v0.35.1` (2026-08-03)
-- **最近提交**: 2026-09-09
-- **Release 含资产**: 5 个
-- **发布时间**: 2026-08-03T11:15:34Z
-
-## 流行度
-
-- **Star**: 37 · **Fork**: 6 · **开放 issue**: 238 · **贡献者**: 29
-
-## 累计统计
-
-- **发布数**: 174 · **已合并 PR**: 451 · **开放 PR**: 5 · **已关闭 issue**: 223 · **开放 issue**: 15 · **提交数**: 1732
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 7 | 3 | 1 | 0 | 13 |
-| 90d | 2026-06-12 | 10 | 70 | 3 | 6 | 4 | 106 |
-| 360d | 2025-09-15 | 33 | 98 | 4 | 11 | 5 | 244 |
-
-## 代码规模
-
-合计: **112,882** 行代码（覆盖前 5 种语言、共 **1302** 个文件）。
+合计: **114,003** 行代码（覆盖前 5 种语言、共 **1304** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 46,332 | 3,192 | 10,844 | 384 |
+| Go | 47,453 | 3,232 | 11,059 | 386 |
 | Json | 25,785 | 0 | 47 | 19 |
 | Pan | 24,612 | 3,480 | 4,745 | 673 |
 | Yaml | 8,934 | 2,063 | 223 | 128 |
@@ -63,6 +34,47 @@ x install furyctl
 - **Dangerous-Workflow** (-1/10) — no workflows found
 - **Token-Permissions** (-1/10) — No tokens found
 
+## 源代码
+
+- **上游仓库**: <https://github.com/sighupio/furyctl>
+- **官网**: <https://docs.sighup.io/furyctl/>
+- **许可证**: Apache-2.0
+
+## 发布
+
+- **最新版本**: `v0.35.1` (2026-08-03)
+- **最近提交**: 2026-09-10
+- **Release 含资产**: 5 个
+
+## 流行度
+
+- **Star**: 37 · **Fork**: 6 · **开放 issue**: 239 · **贡献者**: 29
+
+## 累计统计
+
+- **发布数**: 174 · **已合并 PR**: 453 · **开放 PR**: 4 · **已关闭 issue**: 224 · **开放 issue**: 15 · **提交数**: 1743
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 9 | 2 | 1 | 1 | 21 |
+| last60d | 2026-07-12 | 5 | 47 | 2 | 6 | 4 | 91 |
+| 90d | 2026-06-12 | 10 | 72 | 2 | 7 | 4 | 114 |
+| last180d | 2026-03-14 | 15 | 85 | 2 | 10 | 4 | 152 |
+| 360d | 2025-09-15 | 33 | 100 | 3 | 12 | 5 | 252 |
+| last720d | 2024-09-20 | 63 | 166 | 4 | 24 | 8 | 498 |
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/sighupio/furyctl/releases/download/v0.35.1/checksums.txt) | 374 B | `other` |
+| [furyctl-darwin-amd64.tar.gz](https://github.com/sighupio/furyctl/releases/download/v0.35.1/furyctl-darwin-amd64.tar.gz) | 21.3 MiB | `native/darwin/x64` |
+| [furyctl-darwin-arm64.tar.gz](https://github.com/sighupio/furyctl/releases/download/v0.35.1/furyctl-darwin-arm64.tar.gz) | 19.6 MiB | `native/darwin/arm64` |
+| [furyctl-linux-amd64.tar.gz](https://github.com/sighupio/furyctl/releases/download/v0.35.1/furyctl-linux-amd64.tar.gz) | 20.9 MiB | `native/linux/x64` |
+| [furyctl-linux-arm64.tar.gz](https://github.com/sighupio/furyctl/releases/download/v0.35.1/furyctl-linux-arm64.tar.gz) | 18.7 MiB | `native/linux/arm64` |
+
 ## 改进这些数据
 
 furyctl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `furyctl` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -72,4 +84,4 @@ furyctl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:47:38Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:48:00Z._
