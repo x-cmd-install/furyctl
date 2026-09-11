@@ -14,11 +14,11 @@ x install furyctl
 
 ## Code insight
 
-Total: **114,003** lines of code across **1304** files in the top 5 languages.
+Total: **116,778** lines of code across **1314** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 47,453 | 3,232 | 11,059 | 386 |
+| Go | 50,228 | 3,825 | 11,779 | 396 |
 | Json | 25,785 | 0 | 47 | 19 |
 | Pan | 24,612 | 3,480 | 4,745 | 673 |
 | Yaml | 8,934 | 2,063 | 223 | 128 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.35.1` (2026-08-03)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-11
 - **Assets in release**: 5
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 174 · **Merged PRs**: 453 · **Open PRs**: 4 · **Closed issues**: 224 · **Open issues**: 15 · **Commits**: 1743
+- **Releases**: 174 · **Merged PRs**: 454 · **Open PRs**: 3 · **Closed issues**: 224 · **Open issues**: 15 · **Commits**: 1746
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 9 | 2 | 1 | 1 | 21 |
-| last60d | 2026-07-13 | 5 | 47 | 2 | 6 | 4 | 91 |
-| 90d | 2026-06-13 | 10 | 72 | 2 | 7 | 4 | 114 |
-| last180d | 2026-03-15 | 15 | 85 | 2 | 10 | 4 | 152 |
-| 360d | 2025-09-16 | 33 | 100 | 3 | 12 | 5 | 252 |
-| last720d | 2024-09-21 | 63 | 166 | 4 | 24 | 8 | 498 |
+| 30d | 2026-08-12 | 0 | 10 | 1 | 1 | 1 | 23 |
+| last60d | 2026-07-13 | 5 | 48 | 1 | 6 | 4 | 93 |
+| 90d | 2026-06-13 | 10 | 73 | 1 | 7 | 4 | 116 |
+| last180d | 2026-03-15 | 15 | 86 | 1 | 10 | 4 | 154 |
+| 360d | 2025-09-16 | 33 | 101 | 2 | 12 | 5 | 254 |
+| last720d | 2024-09-21 | 63 | 167 | 3 | 24 | 8 | 501 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for furyctl lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:39:28Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:28:27Z._
