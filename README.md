@@ -4,7 +4,7 @@
 
 furyctl is the SIGHUP Distribution cluster lifecycle manager
 
-![furyctl](https://repo.x-cmd.io/furyctl.svg)
+[![x-cmd/install — furyctl Code Quality Monitoring Repo Card](https://repo.x-cmd.io/furyctl.svg)](https://x-cmd.com/install/furyctl)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install furyctl
 
 ## Code insight
 
-Total: **116,773** lines of code across **1315** files in the top 5 languages.
+Total: **116,856** lines of code across **1316** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 50,223 | 3,822 | 11,782 | 397 |
+| Go | 50,306 | 3,840 | 11,798 | 398 |
 | Json | 25,785 | 0 | 47 | 19 |
 | Pan | 24,612 | 3,480 | 4,745 | 673 |
 | Yaml | 8,934 | 2,063 | 223 | 128 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.35.1` (2026-08-03)
-- **Last commit**: 2026-09-15
+- **Last commit**: 2026-09-18
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 37 · **Forks**: 6 · **Open issues**: 239 · **Contributors**: 29
+- **Stars**: 36 · **Forks**: 6 · **Open issues**: 239 · **Contributors**: 29
 
 ## Totals (cumulative)
 
-- **Releases**: 174 · **Merged PRs**: 457 · **Open PRs**: 4 · **Closed issues**: 225 · **Open issues**: 14 · **Commits**: 1753
+- **Releases**: 174 · **Merged PRs**: 458 · **Open PRs**: 4 · **Closed issues**: 225 · **Open issues**: 14 · **Commits**: 1756
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 11 | 2 | 1 | 1 | 20 |
-| last60d | 2026-07-20 | 5 | 44 | 2 | 7 | 3 | 74 |
-| 90d | 2026-06-20 | 10 | 71 | 2 | 8 | 3 | 118 |
-| last180d | 2026-03-22 | 15 | 89 | 2 | 11 | 3 | 158 |
-| 360d | 2025-09-23 | 33 | 104 | 3 | 13 | 4 | 258 |
-| last720d | 2024-09-28 | 61 | 168 | 4 | 25 | 7 | 505 |
+| 30d | 2026-08-21 | 0 | 9 | 2 | 0 | 1 | 20 |
+| last60d | 2026-07-22 | 5 | 30 | 2 | 5 | 3 | 45 |
+| 90d | 2026-06-22 | 10 | 72 | 2 | 8 | 3 | 120 |
+| last180d | 2026-03-24 | 15 | 90 | 2 | 11 | 3 | 160 |
+| 360d | 2025-09-25 | 33 | 105 | 3 | 13 | 4 | 260 |
+| last720d | 2024-09-30 | 61 | 169 | 4 | 25 | 7 | 508 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for furyctl lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:55:04Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:55:08Z._
