@@ -14,11 +14,11 @@ x install furyctl
 
 ## Code insight
 
-Total: **118,361** lines of code across **1325** files in the top 5 languages.
+Total: **119,014** lines of code across **1333** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 51,797 | 4,113 | 12,135 | 405 |
+| Go | 52,450 | 4,229 | 12,310 | 413 |
 | Json | 25,785 | 0 | 47 | 19 |
 | Pan | 24,626 | 3,486 | 4,755 | 675 |
 | Yaml | 8,934 | 2,063 | 223 | 128 |
@@ -43,7 +43,8 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.35.1` (2026-08-03)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-09-23
+- **Assets in release**: 5
 
 ## Popularity
 
@@ -51,18 +52,28 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 174 · **Merged PRs**: 463 · **Open PRs**: 5 · **Closed issues**: 225 · **Open issues**: 14 · **Commits**: 1774
+- **Releases**: 174 · **Merged PRs**: 472 · **Open PRs**: 4 · **Closed issues**: 225 · **Open issues**: 14 · **Commits**: 1799
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 0 | 13 | 3 | 0 | 1 | 34 |
-| last60d | 2026-07-25 | 4 | 26 | 3 | 4 | 3 | 59 |
-| 90d | 2026-06-25 | 10 | 70 | 3 | 8 | 3 | 134 |
-| last180d | 2026-03-27 | 15 | 95 | 3 | 11 | 3 | 174 |
-| 360d | 2025-09-28 | 33 | 110 | 4 | 13 | 4 | 274 |
-| last720d | 2024-10-03 | 61 | 172 | 5 | 24 | 7 | 526 |
+| 30d | 2026-08-25 | 0 | 22 | 2 | 0 | 1 | 50 |
+| last60d | 2026-07-26 | 4 | 35 | 2 | 4 | 3 | 75 |
+| 90d | 2026-06-26 | 10 | 79 | 2 | 8 | 3 | 150 |
+| last180d | 2026-03-28 | 15 | 104 | 2 | 11 | 3 | 190 |
+| 360d | 2025-09-29 | 33 | 119 | 3 | 13 | 4 | 290 |
+| last720d | 2024-10-04 | 61 | 180 | 4 | 24 | 7 | 550 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/sighupio/furyctl/releases/download/v0.35.1/checksums.txt) | 374 B | `other` |
+| [furyctl-darwin-amd64.tar.gz](https://github.com/sighupio/furyctl/releases/download/v0.35.1/furyctl-darwin-amd64.tar.gz) | 21.3 MiB | `native/darwin/x64` |
+| [furyctl-darwin-arm64.tar.gz](https://github.com/sighupio/furyctl/releases/download/v0.35.1/furyctl-darwin-arm64.tar.gz) | 19.6 MiB | `native/darwin/arm64` |
+| [furyctl-linux-amd64.tar.gz](https://github.com/sighupio/furyctl/releases/download/v0.35.1/furyctl-linux-amd64.tar.gz) | 20.9 MiB | `native/linux/x64` |
+| [furyctl-linux-arm64.tar.gz](https://github.com/sighupio/furyctl/releases/download/v0.35.1/furyctl-linux-arm64.tar.gz) | 18.7 MiB | `native/linux/arm64` |
 
 ## Improve this data
 
@@ -73,4 +84,4 @@ Install metadata for furyctl lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T06:02:15Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T05:32:36Z._
