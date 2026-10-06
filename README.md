@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 177 · **Merged PRs**: 484 · **Open PRs**: 3 · **Closed issues**: 225 · **Open issues**: 14 · **Commits**: 1829
+- **Releases**: 177 · **Merged PRs**: 485 · **Open PRs**: 3 · **Closed issues**: 225 · **Open issues**: 14 · **Commits**: 1829
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 3 | 32 | 1 | 0 | 1 | 53 |
-| last60d | 2026-08-06 | 3 | 42 | 1 | 2 | 2 | 77 |
-| 90d | 2026-07-07 | 10 | 82 | 1 | 7 | 3 | 156 |
-| last180d | 2026-04-08 | 18 | 114 | 1 | 11 | 3 | 204 |
-| 360d | 2025-10-10 | 32 | 129 | 2 | 13 | 4 | 306 |
-| last720d | 2024-10-15 | 63 | 189 | 3 | 24 | 7 | 576 |
+| 30d | 2026-09-06 | 3 | 33 | 1 | 0 | 1 | 53 |
+| last60d | 2026-08-07 | 3 | 41 | 1 | 1 | 1 | 77 |
+| 90d | 2026-07-08 | 8 | 81 | 1 | 7 | 3 | 156 |
+| last180d | 2026-04-09 | 18 | 115 | 1 | 11 | 3 | 204 |
+| 360d | 2025-10-11 | 32 | 130 | 2 | 13 | 4 | 306 |
+| last720d | 2024-10-16 | 63 | 190 | 3 | 24 | 7 | 576 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for furyctl lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:25:45Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:14:39Z._
