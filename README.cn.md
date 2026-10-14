@@ -30,8 +30,8 @@ x install furyctl
 
 评分最低的几项:
 
-- **Token-Permissions** (-1/10) — No tokens found
 - **Dangerous-Workflow** (-1/10) — no workflows found
+- **Token-Permissions** (-1/10) — No tokens found
 - **Packaging** (-1/10) — packaging workflow not detected
 
 ## 源代码
@@ -52,18 +52,18 @@ x install furyctl
 
 ## 累计统计
 
-- **发布数**: 179 · **已合并 PR**: 492 · **开放 PR**: 4 · **已关闭 issue**: 226 · **开放 issue**: 13 · **提交数**: 1829
+- **发布数**: 179 · **已合并 PR**: 495 · **开放 PR**: 5 · **已关闭 issue**: 226 · **开放 issue**: 13 · **提交数**: 1829
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 5 | 37 | 2 | 0 | 0 | 48 |
-| last60d | 2026-08-14 | 5 | 48 | 2 | 1 | 1 | 73 |
-| 90d | 2026-07-15 | 10 | 84 | 2 | 7 | 3 | 134 |
-| last180d | 2026-04-16 | 20 | 122 | 2 | 11 | 3 | 204 |
-| 360d | 2025-10-18 | 33 | 137 | 3 | 14 | 3 | 306 |
-| last720d | 2024-10-23 | 63 | 195 | 4 | 25 | 6 | 572 |
+| 30d | 2026-09-14 | 5 | 39 | 3 | 0 | 0 | 48 |
+| last60d | 2026-08-15 | 5 | 51 | 3 | 1 | 1 | 73 |
+| 90d | 2026-07-16 | 10 | 86 | 3 | 7 | 3 | 134 |
+| last180d | 2026-04-17 | 20 | 125 | 3 | 11 | 3 | 204 |
+| 360d | 2025-10-19 | 33 | 140 | 4 | 14 | 3 | 306 |
+| last720d | 2024-10-24 | 63 | 198 | 5 | 24 | 6 | 572 |
 
 ## Release 资产
 
@@ -84,4 +84,4 @@ furyctl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261013.yml` · 2026-10-13T07:44:03Z._
+_数据快照: `data/card/261014.yml` · 2026-10-14T05:46:53Z._
