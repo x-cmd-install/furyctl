@@ -14,25 +14,25 @@ x install furyctl
 
 ## Code insight
 
-Total: **120,049** lines of code across **1341** files in the top 5 languages.
+Total: **120,834** lines of code across **1373** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 53,485 | 4,397 | 12,607 | 421 |
+| Go | 54,031 | 4,582 | 12,629 | 424 |
 | Json | 25,785 | 0 | 47 | 19 |
-| Pan | 24,626 | 3,486 | 4,755 | 675 |
+| Pan | 24,865 | 3,556 | 4,866 | 704 |
 | Yaml | 8,934 | 2,063 | 223 | 128 |
 | Hcl | 6,346 | 888 | 1,108 | 98 |
 
 ## OpenSSF Scorecard
 
-Overall score: **4.7 / 10**
+Overall score: **4.8 / 10**
 
 Lowest-scoring checks:
 
-- **Dangerous-Workflow** (-1/10) — no workflows found
-- **Token-Permissions** (-1/10) — No tokens found
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (-1/10) — No tokens found
+- **Dangerous-Workflow** (-1/10) — no workflows found
 
 ## Source
 
@@ -42,8 +42,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.36.0-rc.6` (2026-08-03)
-- **Last commit**: 2026-09-28
+- **Latest**: `v0.36.0` (2026-10-20)
+- **Last commit**: 2026-10-20
 - **Assets in release**: 5
 
 ## Popularity
@@ -52,28 +52,28 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 181 · **Merged PRs**: 501 · **Open PRs**: 5 · **Closed issues**: 227 · **Open issues**: 12 · **Commits**: 1829
+- **Releases**: 183 · **Merged PRs**: 502 · **Open PRs**: 5 · **Closed issues**: 227 · **Open issues**: 12 · **Commits**: 1830
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 7 | 41 | 3 | 0 | 0 | 7 |
-| last60d | 2026-08-21 | 7 | 52 | 3 | 1 | 0 | 68 |
-| 90d | 2026-07-22 | 12 | 73 | 3 | 6 | 2 | 101 |
-| last180d | 2026-04-23 | 21 | 130 | 3 | 12 | 2 | 197 |
-| 360d | 2025-10-25 | 35 | 146 | 4 | 15 | 2 | 306 |
-| last720d | 2024-10-30 | 65 | 204 | 5 | 25 | 5 | 571 |
+| 30d | 2026-09-21 | 9 | 39 | 3 | 0 | 0 | 8 |
+| last60d | 2026-08-22 | 9 | 53 | 3 | 1 | 0 | 69 |
+| 90d | 2026-07-23 | 13 | 71 | 3 | 6 | 2 | 102 |
+| last180d | 2026-04-24 | 23 | 131 | 3 | 12 | 2 | 198 |
+| 360d | 2025-10-26 | 37 | 147 | 4 | 15 | 2 | 307 |
+| last720d | 2024-10-31 | 67 | 205 | 5 | 25 | 5 | 572 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/sighupio/furyctl/releases/download/v0.35.1/checksums.txt) | 374 B | `other` |
-| [furyctl-darwin-amd64.tar.gz](https://github.com/sighupio/furyctl/releases/download/v0.35.1/furyctl-darwin-amd64.tar.gz) | 21.3 MiB | `native/darwin/x64` |
-| [furyctl-darwin-arm64.tar.gz](https://github.com/sighupio/furyctl/releases/download/v0.35.1/furyctl-darwin-arm64.tar.gz) | 19.6 MiB | `native/darwin/arm64` |
-| [furyctl-linux-amd64.tar.gz](https://github.com/sighupio/furyctl/releases/download/v0.35.1/furyctl-linux-amd64.tar.gz) | 20.9 MiB | `native/linux/x64` |
-| [furyctl-linux-arm64.tar.gz](https://github.com/sighupio/furyctl/releases/download/v0.35.1/furyctl-linux-arm64.tar.gz) | 18.7 MiB | `native/linux/arm64` |
+| [checksums.txt](https://github.com/sighupio/furyctl/releases/download/v0.36.0/checksums.txt) | 374 B | `other` |
+| [furyctl-darwin-amd64.tar.gz](https://github.com/sighupio/furyctl/releases/download/v0.36.0/furyctl-darwin-amd64.tar.gz) | 16.5 MiB | `native/darwin/x64` |
+| [furyctl-darwin-arm64.tar.gz](https://github.com/sighupio/furyctl/releases/download/v0.36.0/furyctl-darwin-arm64.tar.gz) | 15.3 MiB | `native/darwin/arm64` |
+| [furyctl-linux-amd64.tar.gz](https://github.com/sighupio/furyctl/releases/download/v0.36.0/furyctl-linux-amd64.tar.gz) | 16.1 MiB | `native/linux/x64` |
+| [furyctl-linux-arm64.tar.gz](https://github.com/sighupio/furyctl/releases/download/v0.36.0/furyctl-linux-arm64.tar.gz) | 14.5 MiB | `native/linux/arm64` |
 
 ## Improve this data
 
@@ -84,4 +84,4 @@ Install metadata for furyctl lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:42:39Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:31:16Z._
