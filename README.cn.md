@@ -14,13 +14,13 @@ x install furyctl
 
 ## 代码洞察
 
-合计: **121,579** 行代码（覆盖前 5 种语言、共 **1377** 个文件）。
+合计: **121,634** 行代码（覆盖前 5 种语言、共 **1380** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Go | 54,730 | 4,661 | 12,843 | 428 |
 | Json | 25,785 | 0 | 47 | 19 |
-| Pan | 24,865 | 3,556 | 4,866 | 704 |
+| Pan | 24,920 | 3,568 | 4,887 | 707 |
 | Yaml | 8,934 | 2,063 | 223 | 128 |
 | Hcl | 6,346 | 888 | 1,108 | 98 |
 
@@ -42,8 +42,8 @@ x install furyctl
 
 ## 发布
 
-- **最新版本**: `v0.36.1-rc.1` (2026-10-20)
-- **最近提交**: 2026-10-21
+- **最新版本**: `v0.36.1` (2026-10-23)
+- **最近提交**: 2026-10-23
 - **Release 含资产**: 5 个
 
 ## 流行度
@@ -52,28 +52,28 @@ x install furyctl
 
 ## 累计统计
 
-- **发布数**: 185 · **已合并 PR**: 504 · **开放 PR**: 4 · **已关闭 issue**: 227 · **开放 issue**: 12 · **提交数**: 1836
+- **发布数**: 186 · **已合并 PR**: 505 · **开放 PR**: 4 · **已关闭 issue**: 227 · **开放 issue**: 12 · **提交数**: 1837
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 11 | 30 | 2 | 0 | 0 | 13 |
-| last60d | 2026-08-24 | 11 | 54 | 2 | 1 | 0 | 74 |
-| 90d | 2026-07-25 | 15 | 67 | 2 | 5 | 2 | 107 |
-| last180d | 2026-04-26 | 25 | 133 | 2 | 12 | 2 | 203 |
-| 360d | 2025-10-28 | 39 | 149 | 3 | 15 | 2 | 312 |
-| last720d | 2024-11-02 | 69 | 207 | 4 | 25 | 5 | 578 |
+| 30d | 2026-09-24 | 12 | 28 | 2 | 0 | 0 | 14 |
+| last60d | 2026-08-25 | 12 | 55 | 2 | 1 | 0 | 75 |
+| 90d | 2026-07-26 | 16 | 68 | 2 | 5 | 2 | 108 |
+| last180d | 2026-04-27 | 26 | 134 | 2 | 12 | 2 | 204 |
+| 360d | 2025-10-29 | 40 | 149 | 3 | 15 | 2 | 313 |
+| last720d | 2024-11-03 | 70 | 208 | 4 | 25 | 5 | 579 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums.txt](https://github.com/sighupio/furyctl/releases/download/v0.36.0/checksums.txt) | 374 B | `other` |
-| [furyctl-darwin-amd64.tar.gz](https://github.com/sighupio/furyctl/releases/download/v0.36.0/furyctl-darwin-amd64.tar.gz) | 16.5 MiB | `native/darwin/x64` |
-| [furyctl-darwin-arm64.tar.gz](https://github.com/sighupio/furyctl/releases/download/v0.36.0/furyctl-darwin-arm64.tar.gz) | 15.3 MiB | `native/darwin/arm64` |
-| [furyctl-linux-amd64.tar.gz](https://github.com/sighupio/furyctl/releases/download/v0.36.0/furyctl-linux-amd64.tar.gz) | 16.1 MiB | `native/linux/x64` |
-| [furyctl-linux-arm64.tar.gz](https://github.com/sighupio/furyctl/releases/download/v0.36.0/furyctl-linux-arm64.tar.gz) | 14.5 MiB | `native/linux/arm64` |
+| [checksums.txt](https://github.com/sighupio/furyctl/releases/download/v0.36.1/checksums.txt) | 374 B | `other` |
+| [furyctl-darwin-amd64.tar.gz](https://github.com/sighupio/furyctl/releases/download/v0.36.1/furyctl-darwin-amd64.tar.gz) | 16.5 MiB | `native/darwin/x64` |
+| [furyctl-darwin-arm64.tar.gz](https://github.com/sighupio/furyctl/releases/download/v0.36.1/furyctl-darwin-arm64.tar.gz) | 15.3 MiB | `native/darwin/arm64` |
+| [furyctl-linux-amd64.tar.gz](https://github.com/sighupio/furyctl/releases/download/v0.36.1/furyctl-linux-amd64.tar.gz) | 16.1 MiB | `native/linux/x64` |
+| [furyctl-linux-arm64.tar.gz](https://github.com/sighupio/furyctl/releases/download/v0.36.1/furyctl-linux-arm64.tar.gz) | 14.6 MiB | `native/linux/arm64` |
 
 ## 改进这些数据
 
@@ -84,4 +84,4 @@ furyctl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261023.yml` · 2026-10-23T05:43:41Z._
+_数据快照: `data/card/261024.yml` · 2026-10-24T05:29:29Z._
