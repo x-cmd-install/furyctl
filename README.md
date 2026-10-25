@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 12 | 28 | 2 | 0 | 0 | 14 |
-| last60d | 2026-08-25 | 12 | 55 | 2 | 1 | 0 | 75 |
-| 90d | 2026-07-26 | 16 | 68 | 2 | 5 | 2 | 108 |
-| last180d | 2026-04-27 | 26 | 134 | 2 | 12 | 2 | 204 |
-| 360d | 2025-10-29 | 40 | 149 | 3 | 15 | 2 | 313 |
-| last720d | 2024-11-03 | 70 | 208 | 4 | 25 | 5 | 579 |
+| 30d | 2026-09-25 | 12 | 27 | 2 | 0 | 0 | 7 |
+| last60d | 2026-08-26 | 12 | 55 | 2 | 1 | 0 | 74 |
+| 90d | 2026-07-27 | 16 | 67 | 2 | 4 | 2 | 97 |
+| last180d | 2026-04-28 | 25 | 133 | 2 | 12 | 2 | 201 |
+| 360d | 2025-10-30 | 40 | 149 | 3 | 15 | 2 | 305 |
+| last720d | 2024-11-04 | 70 | 208 | 4 | 25 | 5 | 579 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for furyctl lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:29:29Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:30:42Z._
