@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 16916361,
       "digest": "sha256:8a1cd10749651cc636542779bddcb94672f8d2e54724fcda2b8cb7bd48ba8e86",
-      "download_count": 211,
+      "download_count": 246,
       "created_at": "2026-10-23T08:42:31Z",
       "updated_at": "2026-10-23T08:42:33Z",
       "browser_download_url": "https://github.com/sighupio/furyctl/releases/download/v0.36.1/furyctl-linux-amd64.tar.gz"
