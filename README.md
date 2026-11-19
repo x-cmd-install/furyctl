@@ -14,25 +14,15 @@ x install furyctl
 
 ## Code insight
 
-Total: **122,236** lines of code across **1383** files in the top 5 languages.
+Total: **122,622** lines of code across **1384** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 55,332 | 4,759 | 13,030 | 431 |
+| Go | 55,718 | 4,806 | 13,142 | 432 |
 | Json | 25,785 | 0 | 47 | 19 |
 | Pan | 24,920 | 3,568 | 4,887 | 707 |
 | Yaml | 8,934 | 2,063 | 223 | 128 |
 | Hcl | 6,346 | 888 | 1,108 | 98 |
-
-## OpenSSF Scorecard
-
-Overall score: **4.8 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (-1/10) — No tokens found
-- **Dangerous-Workflow** (-1/10) — no workflows found
 
 ## Source
 
@@ -43,7 +33,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.36.1` (2026-10-23)
-- **Last commit**: 2026-11-12
+- **Last commit**: 2026-11-19
 - **Assets in release**: 5
 
 ## Popularity
@@ -52,18 +42,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 186 · **Merged PRs**: 510 · **Open PRs**: 8 · **Closed issues**: 228 · **Open issues**: 12 · **Commits**: 1851
+- **Releases**: 186 · **Merged PRs**: 513 · **Open PRs**: 5 · **Closed issues**: 228 · **Open issues**: 12 · **Commits**: 1860
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 6 | 9 | 6 | 1 | 0 | 12 |
-| last60d | 2026-09-18 | 12 | 50 | 6 | 1 | 0 | 46 |
-| 90d | 2026-08-19 | 12 | 64 | 6 | 3 | 0 | 86 |
-| last180d | 2026-05-21 | 22 | 130 | 6 | 12 | 2 | 195 |
-| 360d | 2025-11-22 | 37 | 150 | 6 | 16 | 2 | 313 |
-| last720d | 2024-11-27 | 68 | 209 | 8 | 26 | 5 | 593 |
+| 30d | 2026-10-20 | 5 | 10 | 3 | 1 | 0 | 18 |
+| last60d | 2026-09-20 | 12 | 53 | 3 | 1 | 0 | 52 |
+| 90d | 2026-08-21 | 12 | 64 | 3 | 2 | 0 | 92 |
+| last180d | 2026-05-23 | 22 | 133 | 3 | 12 | 2 | 201 |
+| 360d | 2025-11-24 | 37 | 153 | 3 | 16 | 2 | 319 |
+| last720d | 2024-11-29 | 66 | 211 | 5 | 26 | 5 | 601 |
 
 ## Release assets
 
@@ -84,4 +74,4 @@ Install metadata for furyctl lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:48:43Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:41:28Z._
