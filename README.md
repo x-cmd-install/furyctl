@@ -48,12 +48,12 @@ Total: **122,622** lines of code across **1384** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 5 | 10 | 3 | 1 | 0 | 18 |
-| last60d | 2026-09-20 | 12 | 53 | 3 | 1 | 0 | 52 |
-| 90d | 2026-08-21 | 12 | 64 | 3 | 2 | 0 | 92 |
-| last180d | 2026-05-23 | 22 | 133 | 3 | 12 | 2 | 201 |
-| 360d | 2025-11-24 | 37 | 153 | 3 | 16 | 2 | 319 |
-| last720d | 2024-11-29 | 66 | 211 | 5 | 26 | 5 | 601 |
+| 30d | 2026-10-21 | 3 | 9 | 3 | 1 | 0 | 18 |
+| last60d | 2026-09-21 | 12 | 50 | 3 | 1 | 0 | 52 |
+| 90d | 2026-08-22 | 12 | 64 | 3 | 2 | 0 | 92 |
+| last180d | 2026-05-24 | 22 | 133 | 3 | 12 | 2 | 201 |
+| 360d | 2025-11-25 | 37 | 153 | 3 | 16 | 2 | 319 |
+| last720d | 2024-11-30 | 65 | 211 | 5 | 26 | 5 | 598 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for furyctl lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T09:41:28Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T09:09:54Z._
