@@ -42,18 +42,18 @@ Total: **122,723** lines of code across **1395** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 187 · **Merged PRs**: 514 · **Open PRs**: 6 · **Closed issues**: 228 · **Open issues**: 12 · **Commits**: 1863
+- **Releases**: 187 · **Merged PRs**: 515 · **Open PRs**: 5 · **Closed issues**: 228 · **Open issues**: 12 · **Commits**: 1863
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 8 | 4 | 1 | 0 | 15 |
-| last60d | 2026-09-25 | 13 | 36 | 4 | 1 | 0 | 26 |
-| 90d | 2026-08-26 | 13 | 64 | 4 | 2 | 0 | 93 |
-| last180d | 2026-05-28 | 23 | 134 | 4 | 11 | 2 | 197 |
-| 360d | 2025-11-29 | 38 | 154 | 4 | 15 | 2 | 321 |
-| last720d | 2024-12-04 | 66 | 212 | 6 | 26 | 5 | 601 |
+| 30d | 2026-10-26 | 1 | 9 | 3 | 1 | 0 | 15 |
+| last60d | 2026-09-26 | 13 | 37 | 3 | 1 | 0 | 26 |
+| 90d | 2026-08-27 | 13 | 65 | 3 | 2 | 0 | 93 |
+| last180d | 2026-05-29 | 23 | 135 | 3 | 11 | 2 | 197 |
+| 360d | 2025-11-30 | 38 | 155 | 3 | 15 | 2 | 321 |
+| last720d | 2024-12-05 | 66 | 212 | 5 | 26 | 5 | 601 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for furyctl lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:34:09Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:39:21Z._
