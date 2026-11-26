@@ -24,6 +24,16 @@ Total: **122,723** lines of code across **1395** files in the top 5 languages.
 | Yaml | 8,934 | 2,063 | 223 | 128 |
 | Hcl | 6,346 | 888 | 1,108 | 98 |
 
+## OpenSSF Scorecard
+
+Overall score: **5 / 10**
+
+Lowest-scoring checks:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (-1/10) — No tokens found
+- **Dangerous-Workflow** (-1/10) — no workflows found
+
 ## Source
 
 - **Upstream**: <https://github.com/sighupio/furyctl>
@@ -48,12 +58,12 @@ Total: **122,723** lines of code across **1395** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 9 | 3 | 1 | 0 | 15 |
-| last60d | 2026-09-26 | 13 | 37 | 3 | 1 | 0 | 26 |
-| 90d | 2026-08-27 | 13 | 65 | 3 | 2 | 0 | 93 |
-| last180d | 2026-05-29 | 23 | 135 | 3 | 11 | 2 | 197 |
-| 360d | 2025-11-30 | 38 | 155 | 3 | 15 | 2 | 321 |
-| last720d | 2024-12-05 | 66 | 212 | 5 | 26 | 5 | 601 |
+| 30d | 2026-10-27 | 1 | 9 | 3 | 1 | 0 | 15 |
+| last60d | 2026-09-27 | 13 | 37 | 3 | 1 | 0 | 26 |
+| 90d | 2026-08-28 | 13 | 64 | 3 | 2 | 0 | 93 |
+| last180d | 2026-05-30 | 23 | 135 | 3 | 11 | 2 | 197 |
+| 360d | 2025-12-01 | 38 | 155 | 3 | 15 | 2 | 321 |
+| last720d | 2024-12-06 | 66 | 212 | 5 | 26 | 5 | 600 |
 
 ## Release assets
 
@@ -74,4 +84,4 @@ Install metadata for furyctl lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:39:21Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:58:52Z._

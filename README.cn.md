@@ -24,6 +24,16 @@ x install furyctl
 | Yaml | 8,934 | 2,063 | 223 | 128 |
 | Hcl | 6,346 | 888 | 1,108 | 98 |
 
+## OpenSSF Scorecard 评分
+
+总评分: **5 / 10**
+
+评分最低的几项:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (-1/10) — No tokens found
+- **Dangerous-Workflow** (-1/10) — no workflows found
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/sighupio/furyctl>
@@ -48,12 +58,12 @@ x install furyctl
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 9 | 3 | 1 | 0 | 15 |
-| last60d | 2026-09-26 | 13 | 37 | 3 | 1 | 0 | 26 |
-| 90d | 2026-08-27 | 13 | 65 | 3 | 2 | 0 | 93 |
-| last180d | 2026-05-29 | 23 | 135 | 3 | 11 | 2 | 197 |
-| 360d | 2025-11-30 | 38 | 155 | 3 | 15 | 2 | 321 |
-| last720d | 2024-12-05 | 66 | 212 | 5 | 26 | 5 | 601 |
+| 30d | 2026-10-27 | 1 | 9 | 3 | 1 | 0 | 15 |
+| last60d | 2026-09-27 | 13 | 37 | 3 | 1 | 0 | 26 |
+| 90d | 2026-08-28 | 13 | 64 | 3 | 2 | 0 | 93 |
+| last180d | 2026-05-30 | 23 | 135 | 3 | 11 | 2 | 197 |
+| 360d | 2025-12-01 | 38 | 155 | 3 | 15 | 2 | 321 |
+| last720d | 2024-12-06 | 66 | 212 | 5 | 26 | 5 | 600 |
 
 ## Release 资产
 
@@ -74,4 +84,4 @@ furyctl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261125.yml` · 2026-11-25T09:39:21Z._
+_数据快照: `data/card/261126.yml` · 2026-11-26T08:58:53Z._
