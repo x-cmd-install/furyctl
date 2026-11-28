@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 16166858,
       "digest": "sha256:e15ddcd4254729fa2e0ce5c5e754a6e8716a23da78cafc7f172f538aa51ea245",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-11-26T14:21:39Z",
       "updated_at": "2026-11-26T14:21:41Z",
       "browser_download_url": "https://github.com/sighupio/furyctl/releases/download/v0.36.2/furyctl-darwin-arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 16993997,
       "digest": "sha256:231683fc295435fd4ae15b26ebf193c35aa78f62ecef274544cc504f9800118d",
-      "download_count": 7,
+      "download_count": 33,
       "created_at": "2026-11-26T14:21:39Z",
       "updated_at": "2026-11-26T14:21:41Z",
       "browser_download_url": "https://github.com/sighupio/furyctl/releases/download/v0.36.2/furyctl-linux-amd64.tar.gz"
